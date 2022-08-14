@@ -1,1 +1,1 @@
-# pizzaria
+# Projeto de uma pizzaria
